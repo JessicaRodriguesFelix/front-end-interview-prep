@@ -8,3 +8,9 @@ The JavaScript spread operator (...) allows us to quickly copy *all* or *part* o
     
     const combineArrays = [...firstArray, ...secondArray]</br>
     > console.log(combineArrays)    //**Expected output: [1,3,4,3,2,5]**
+
+## Empty Values in JS
+
+## Sparse Arrays
+
+## Callback
