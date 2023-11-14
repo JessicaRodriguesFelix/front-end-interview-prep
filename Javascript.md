@@ -14,3 +14,15 @@ The JavaScript spread operator (...) allows us to quickly copy *all* or *part* o
 ## Sparse Arrays
 
 ## Callback
+Functions are first class citizens and a callback is just a function that you pass as a parameter to another function. That function will do some work and then call the call back function.
+ - *Examples:* </br>
+ // set the function first before calling it </br>
+   const logHello = () => { </br>
+     console.log("Hello, world") </br>
+   } </br>
+    setTimeout(logHello, 100) </br></br>
+// example using the built-in forEach() that accepts a callback function as parameter
+    const names = ["jess","paul","gil","ida"] </br>
+    names.forEach((name)=> console.log(name)) </br>
+- Resources:
+  - JavaScript Callbacks Explained in 5 Minutes (Essential for asynchronous code!) https://www.youtube.com/watch?v=kz_vwAF4NHI
