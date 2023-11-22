@@ -41,3 +41,5 @@ Functions are first class citizens and a callback is just a function that you pa
 ## Destructuring
 
 ## Higher Order Functions
+
+## Hoisting
