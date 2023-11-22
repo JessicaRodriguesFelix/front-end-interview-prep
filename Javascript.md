@@ -11,7 +11,6 @@ The JavaScript spread operator (...) allows us to quickly copy *all* or *part* o
 
 ## Empty Values in JS
 
-## Sparse Arrays
 
 ## Callback
 Functions are first class citizens and a callback is just a function that you pass as a parameter to another function. That function will do some work and then call the call back function.
@@ -36,3 +35,9 @@ Functions are first class citizens and a callback is just a function that you pa
   - JavaScript Callbacks Explained in 5 Minutes (Essential for asynchronous code!) https://www.youtube.com/watch?v=kz_vwAF4NHI
 
 ## Diference between null and undefined?
+
+## Sparse Arrays
+
+## Destructuring
+
+## 
