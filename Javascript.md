@@ -32,6 +32,7 @@ Functions are first class citizens and a callback is just a function that you pa
      } </br>
    } </br>
  </pre>
- 
 - Resources:
   - JavaScript Callbacks Explained in 5 Minutes (Essential for asynchronous code!) https://www.youtube.com/watch?v=kz_vwAF4NHI
+
+## Diference between null and undefined?
