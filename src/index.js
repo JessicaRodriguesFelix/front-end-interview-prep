@@ -55,4 +55,25 @@ function extraTricky(){
   return tricky
 }
 
-extraTricky()(console.log('hello from line 58'))
+//extraTricky()(console.log('hello from line 58'))
+
+function testCode() {
+  [1, undefined, 2].map(item => console.log("hi " + item))
+  return ``
+}
+
+//testCode();
+
+[...Array(10)].map((item) => console.log("hi " + item))
+
+// expected out put in the terminal:
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
+// hi undefined
